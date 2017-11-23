@@ -99,7 +99,7 @@
 	<key>RunCommandAsShell</key>
 	<false/>
 	<key>name</key>
-	<string>jpdixon-macos-term</string>
+	<string>jpdixon-osx-term</string>
 	<key>shellExitAction</key>
 	<integer>1</integer>
 	<key>type</key>
